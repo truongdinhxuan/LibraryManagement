@@ -31,7 +31,7 @@ This project provides functionalities for a library management system, including
 
 ## Setup and Installation
 
-   1. git clone https://github.com/Underline007/LibraryManagement.git
+   1. git clone https://github.com/truongdinhxuan/LibraryManagement
    2. set up Cloudinary, SQL, and MailService in appsetting.json
    3. migration project
    4. cd backend -> dotnet run
